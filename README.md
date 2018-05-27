@@ -1,4 +1,8 @@
-# ADH 2000
+# ADH6
+
+## 2018 School project - ADH frontend
+This is an application that I originallyd developed to go with the Angular
+Frontend of this project. See [here](https://github.com/bonnetn/frontend_adh).
 
 ## How to setup the project
 - Create a virtualenv ```virtualenv ./```
